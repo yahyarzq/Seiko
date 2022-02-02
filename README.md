@@ -4,13 +4,13 @@
   Perusahan kami bergerak dibidang desain grafis dimana didirikan untuk memberikan jasa desain grafis dan memudahkan pelaku usaha  dalam melakukan pemesanan logo. Untuk Jenis logo, bisa text ataupun dalam bentuk symbol.
 # Features
   - Themes & plugin (CMS)
-      Dalam membangun website ini kami menggunakan CMS Wordpress dengan Theme yang berasal dari Astra https://wpastra.com/ dan menggunakan starter template  dari wpastra "multipurpose template".
+      Dalam membangun website ini kami menggunakan CMS Wordpress dengan Theme yang berasal dari Astra https://wpastra.com dan menggunakan starter template  dari wpastra "multipurpose template".
 
-      Untuk menanggapi pentanyaan oleh konsumen maka menambah kan fitur live chat menggunakan plugin "3CX Live Chat" https://www.3cx.com/wp-live-chat/.
+      Untuk menanggapi pentanyaan oleh konsumen maka menambah kan fitur live chat menggunakan plugin "3CX Live Chat" https://www.3cx.com/wp-live-chat.
 
-      JIka konsumen ingin mengirim mengkotak penjual menggunkan pesan maka konsumen bisa bisa menggunakan fitur "send message" dengan mengisi form, di fitur ini kami menggunkan plugin "WPForms Lite" https://wpforms.com/
+      JIka konsumen ingin mengirim mengkotak penjual menggunkan pesan maka konsumen bisa bisa menggunakan fitur "send message" dengan mengisi form, di fitur ini kami menggunkan plugin "WPForms Lite" https://wpforms.com.
 
-      untuk memanagement bagian bagian yng terdapat dalam eCommenrce salah satunya management produk,payment, orders. kami menggunkan plugin "WooCommerce",
+      untuk memanagement bagian bagian yng terdapat dalam eCommenrce salah satunya management produk,payment, orders. kami menggunkan plugin "WooCommerce" https://woocommerce.com.
 
       Untuk tampilan dari website kami menggunakan plugin Elementor digunkan sebgai website builder 
   - Penggunaan fitur
