@@ -14,6 +14,12 @@
 
       Untuk tampilan dari website kami menggunakan plugin Elementor digunkan sebgai website builder 
   - Penggunaan fitur
+      Dalam webiste kami memiliki beberapa fitur 
+      - Realtime Chat
+        Dimana kosumen bisa secara langsung berrtanya kepada agent seiko secara real time.
+      - Send messaage
+        Konsumen bisa mengirim pesan kepada seiko tentang order, produk.
+
 # Installations
   Untuk installasi website kami anda bisa mendownload repo ini atau menggunakan fitur clone di github (pastikan "git" terpang di perangkat anda), anad bisa menggunkan aplikasi xampp (atau sejenis) untuk menjalankan website secara lokal
 
