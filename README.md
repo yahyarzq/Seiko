@@ -36,6 +36,8 @@
 # Copyrights
  * Kewirausahaan berbasis Teknologi
  * Seiko TEAM
-   - Yahya Rizkhi B. 201910370311284
+   - Yahya Rizkhi B. (201910370311284)
+   - Safira Rahmah Riyadi (201910370311263)
+   - Rugaya Rahakabuw (201910370311298
  * Syaifuddin,.S.kom,.M.kom
  * Universitas Muhammadiyah malang
